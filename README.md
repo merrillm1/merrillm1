@@ -7,7 +7,7 @@
 
 - 👨‍💻 My  portfolio website can be found [here](https://merrillm1.github.io/)
 - 📫 How to reach me : **matt.merrill94@gmail.com**
-- Profiles :
+Profiles :
 
 <p align="left">
 <a href="https://www.linkedin.com/in/matthew-merrill-data-scientist/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/linkedin.JPG" alt="https://www.linkedin.com/in/matthew-merrill-data-scientist/" height="30" width="30" /></a>
