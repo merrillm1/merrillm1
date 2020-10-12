@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Matt!</h1>
 
 
-- 🌱 I am a graduate of the Data Science Career  Track at Springboard, where I mastered skills in **Python, R, SQL, Machine Learning (supervised and unsupervised), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Data Visualization, Predictive Modeling, Time Series Analysis, Classification and Clustering.**
+- 🌱 I am a graduate of the Data Science Career  Track at Springboard, where I mastered skills in 
+**Python, R, SQL, Machine Learning (supervised and unsupervised), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Data Visualization, Predictive Modeling, Time Series Analysis, Classification and Clustering.**
 
 - 👨‍💻 My  portfolio website can be found [here](https://merrillm1.github.io/)
 - 📫 How to reach me : **matt.merrill94@gmail.com**
