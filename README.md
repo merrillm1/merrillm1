@@ -7,6 +7,7 @@
 
 - 👨‍💻 My  portfolio website can be found [here](https://merrillm1.github.io/)
 - 📫 How to reach me : **matt.merrill94@gmail.com**
+
 Profiles :
 
 <p align="left">
