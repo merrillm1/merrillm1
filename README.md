@@ -8,79 +8,10 @@
 - 👨‍💻 My  portfolio website can be found [here](https://merrillm1.github.io/)
 - 📫 How to reach me : **matt.merrill94@gmail.com**
 
-<li>
-          <a href="/#contact" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://www.linkedin.com/in/matthew-merrill-data-scientist/" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/merrillm1" target="_blank" rel="noopener">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/matt_merrill94" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/files/cv.pdf" >
-            <i class="ai ai-cv big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
+<p align="left">
+<a href="https://www.linkedin.com/in/matthew-merrill-data-scientist/" target="blank"><img align="center" alt="https://www.linkedin.com/in/matthew-merrill-data-scientist/" height="30" width="30" /></a>
+<a href="https://www.datacamp.com/profile/mattmerrill94" target="blank"><img align="center" alt="https://www.datacamp.com/profile/mattmerrill94" height="30" width="30" /></a> 
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrillm1)](https://github.com/merrillm1/github-readme-stats)
 
