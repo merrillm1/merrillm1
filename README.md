@@ -25,7 +25,7 @@
 
 [1]: https://twitter.com/matt_merrill94
 [2]: https://www.facebook.com/matthew.merrill.1044
-[6]: http://www.github.com/carlsednaoui
+[6]: http://www.github.com/merrillm1
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
