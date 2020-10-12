@@ -12,8 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrillm1)](https://github.com/merrillm1/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merrillm1&show_icons=true" alt="merrillm1" /></p>
-
 ![](https://komarev.com/ghpvc/?username=merrillm1)
 
 <!--
