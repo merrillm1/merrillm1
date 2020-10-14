@@ -14,8 +14,6 @@ Profiles :
 <a href="https://www.datacamp.com/profile/mattmerrill94" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/mattmerrill94" height="30" width="30" /></a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrillm1)](https://github.com/merrillm1/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=merrillm1)
 
 <!--
