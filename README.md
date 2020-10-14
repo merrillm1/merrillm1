@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Matt!</h1>
-![Speaking_clip](https://github.com/merrillm1/merrillm1/blob/main/speaking_clip.png)
+![Speaking_clip](speaking_clip.png)
 
 - 🌱 I am a graduate of the Data Science Career  Track at Springboard, where I mastered skills in... 
 
