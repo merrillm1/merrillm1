@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Matt!</h1>
 
+![image](https://github.com/merrillm1/merrillm1/blob/main/images/me_teaching.png)
+
 - I am a Data Scientist skilled in **Python, R, SQL, Machine Learning (supervised and unsupervised), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Data Visualization, Predictive Modeling, Time Series Analysis, Classification and Clustering.**
 
 - 👨‍💻 My  portfolio website can be found [here](https://merrillm1.github.io/)
