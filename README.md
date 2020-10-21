@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm Matt!</h1>
+<h1 align="left">Hi 👋, I'm Matt! I used to be a teacher, but now I am a Data Scientist!</h1>
 
-I am a former teacher turned data scientist. I've found incredible overlap between my career as a teacher and my journey as a data scientist and I have been lucky to benefit from both to be where I am today. My teaching career gave me a wealth of approaches to understanding problems and disecting possible solutions, all for the aim of making it accessible for others by way of a compelling story. My work as a data scientist has given me tools for solving problems that enhance human capabilities for finding patterns and drawing insight.
+I've found incredible overlap between my career as a teacher and my journey as a data scientist and I have been lucky to benefit from both to be where I am today. My teaching career gave me a wealth of approaches to understanding problems and disecting possible solutions, all for the aim of making it accessible for others by way of a compelling story. My work as a data scientist has given me tools for solving problems that enhance human capabilities for finding patterns and drawing insight.
 
 ![image](https://github.com/merrillm1/merrillm1/blob/main/images/me_teaching.png)
 
