@@ -11,7 +11,7 @@ In this repository you'll find work I've completed through the career track prog
 
 Skills :
 
-**Python, R, SQL, Machine Learning (supervised and unsupervised), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Feature Selection, Data Visualization, Predictive Modeling, Recommendation Engines, User Insight, Time Series Analysis, Classification and Clustering.**
+- **Python, R, SQL, Machine Learning (supervised and unsupervised), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Feature Selection, Data Visualization, Predictive Modeling, Recommendation Engines, User Insight, Time Series Analysis, Classification and Clustering.**
 
 - 👨‍💻 My  portfolio website can be found [here](https://merrillm1.github.io/)
 
