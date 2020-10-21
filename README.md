@@ -1,15 +1,17 @@
 <h1 align="left">Hi 👋, I'm Matt!</h1>
 <h2 align="left">I used to be a teacher, now I'm a Data Scientist! </h2>
 
-I've found incredible overlap between my career as a teacher and my journey as a data scientist and I have been lucky to benefit from both to be where I am today. My teaching career gave me a wealth of approaches to understanding problems and disecting possible solutions, all for the aim of making it accessible for others by way of a compelling story. My work as a data scientist has given me tools for solving problems that enhance human capabilities for finding patterns and drawing insight, all for the purpose of making actionable steps towards change, only possible if the solution is told right.
+I've found incredible overlap between my career as a teacher and my journey as a data scientist and I've been lucky to benefit from both to be where I am today. 
+
+My teaching career gave me a wealth of approaches to understanding problems and dissecting possible solutions, all for the aim of making it accessible for others by way of a compelling story. My work as a data scientist has given me tools for solving problems that enhance my capabilities for finding patterns and drawing insight, all for the purpose of making actionable steps towards change, only possible if the solution is delivered in a digestible way. 
 
 ![image](https://github.com/merrillm1/merrillm1/blob/main/images/me_teaching.png)
 
-In this repository you'll find work I've completed through the career track program I recently graduated from as well as a few more recent projects. A good way of selecting which may be of interest is by visiting my [website](https://merrillm1.github.io/), where you can select projects by key word. I am currently working on a kaggle competition for predicting answer correctness to help rethink traditional ways of learning with AI. Look out for updates on that!
+In this repository you'll find work I've completed through the career track program I recently graduated from as well as a few more recent projects. A good way of selecting which may be of interest is by visiting my [website](https://merrillm1.github.io/), where you can select projects by keyword. I am currently working on a kaggle competition for predicting answer correctness to help rethink traditional ways of learning with AI. Look out for updates on that!
 
 Skills :
 
-**Python, R, SQL, Machine Learning (supervised and unsupervised), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Data Visualization, Predictive Modeling, Time Series Analysis, Classification and Clustering.**
+**Python, R, SQL, Machine Learning (supervised and unsupervised), Data Wrangling, Exploratory Data Analysis, Feature Engineering, Feature Selection, Data Visualization, Predictive Modeling, Recommendation Engines, User Insight, Time Series Analysis, Classification and Clustering.**
 
 - 👨‍💻 My  portfolio website can be found [here](https://merrillm1.github.io/)
 
