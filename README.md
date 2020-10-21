@@ -9,8 +9,10 @@
 Profiles :
 
 <p align="left">
+<a href=matt.merrill94@gmail.com target=matt.merrill94@gmail.com><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/gmail.JPG" /></a>
 <a href="https://www.linkedin.com/in/matthew-merrill-data-scientist/" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/linkedin.JPG" alt="https://www.linkedin.com/in/matthew-merrill-data-scientist/" height="30" width="30" /></a>
 <a href="https://www.datacamp.com/profile/mattmerrill94" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/datacamp.JPG" alt="https://www.datacamp.com/profile/mattmerrill94" height="30" width="30" /></a> 
+<a href="https://www.kaggle.com/learn/overview" target="blank"><img align="center" src="https://github.com/DataCoder2020/repo/blob/master/kaggle.JPG" alt="https://www.kaggle.com/matthewmerrill1" height="30" width="30" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merrillm1&layout=compact)](https://github.com/merrillm1/github-readme-stats)
