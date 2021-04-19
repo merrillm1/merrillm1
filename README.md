@@ -7,7 +7,7 @@ My teaching career gave me a wealth of experience understanding problems and dis
 
 ![image](https://github.com/merrillm1/merrillm1/blob/main/images/me_teaching.png)
 
-In this repository you'll find work I've completed through the career track program I recently graduated from as well as a few more recent projects. A good way of selecting which may be of interest is by visiting my [website](https://merrillm1.github.io/), where you can select projects by keyword. I am currently working on a kaggle competition for predicting answer correctness to help rethink traditional ways of learning with AI. Look out for updates on that!
+In this repository you'll find work I've completed through the career track program I recently graduated from as well as a few more recent projects. A good way of selecting which may be of interest is by visiting my [website](https://merrillm1.github.io/), where you can select projects by keyword. I am currently finishing up an internship with [Fellowship.ai](https://www.fellowship.ai/) and will be getting myself back out there in the job market. If you are interested in parterning up on a project or would like to discuss employment opportunities I am open to either. 
 
 Skills :
 
