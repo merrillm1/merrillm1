@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Matt!</h1>
-<h2 align="left">I used to be a teacher, now I'm a Data Scientist! </h2>
 
-I've found incredible overlap between my career as a teacher and my journey as a data scientist and I've been lucky to benefit from both to be where I am today. 
+I've found incredible overlap between my career as a teacher and my studies to become a data scientist and I've been lucky to benefit from both to be where I am today. 
 
 My teaching career gave me a wealth of experience understanding problems and dissecting possible solutions, all for making it accessible for others by way of a compelling story. My work as a data scientist has given me tools for solving problems that enhance my ability to find patterns and draw insight, all for the purpose of creating actionable steps towards change. Data science, like in teaching, requires the solution be delivered in a way everyone can understand and get behind. 
 
