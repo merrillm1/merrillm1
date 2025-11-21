@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Matt!</h1>
 
-I've found incredible overlap between my career as a teacher and my studies to become a data scientist and I've been lucky to benefit from both to be where I am today. 
+I've found a surprising amount of overlap between my work as a teacher and my development as a data scientist, and I feel lucky to have grown in both directions.
 
-My teaching career gave me a wealth of experience understanding problems and dissecting possible solutions, all for making it accessible for others by way of a compelling story. My work as a data scientist has given me tools for solving problems that enhance my ability to find patterns and draw insight, all for the purpose of creating actionable steps towards change. Data science, like in teaching, requires the solution be delivered in a way everyone can understand and get behind. 
+Teaching has given me years of experience breaking down complex problems, looking at them from multiple angles, and turning them into stories that make sense to others. Data science has added a new set of tools to that same core purpose—finding patterns, drawing insight, and turning those insights into steps people can actually act on. In both fields, the work only matters if the solution is communicated clearly and people can get behind it.
 
 ![image](https://github.com/merrillm1/merrillm1/blob/main/images/me_teaching.png)
 
-In this repository you'll find work I've completed through the career track program I recently graduated from as well as a few more recent projects. A good way of selecting which may be of interest is by visiting my [website](https://merrillm1.github.io/), where you can select projects by keyword. I am currently finishing up an internship with [Fellowship.ai](https://www.fellowship.ai/) and will be getting myself back out there in the job market. If you are interested in parterning up on a project or would like to discuss employment opportunities I am open to either. 
+In this repository you'll find work from the career-track program I completed, along with newer projects. If you want to browse by topic, my [website](https://merrillm1.github.io/) is a good place to start.
 
 Skills :
 
