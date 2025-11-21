@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Matt!</h1>
+<h1 align="left">Hi 👋, I'm Matthew!</h1>
 
 I've found a surprising amount of overlap between my work as a teacher and my development as a data scientist, and I feel lucky to have grown in both directions.
 
